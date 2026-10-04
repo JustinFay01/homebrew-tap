@@ -1,6 +1,6 @@
 cask "tidebar" do
-  version "1.0.2"
-  sha256 "d7f3ecd07ac452c47e9f9ad9b1099b5ddcffe16f57030577101e6b3b0842e4bd"
+  version "1.0.3"
+  sha256 "9c197e7f53afe8e681c3929890c146ba1e3db8cf3b0ae65e3bf028cafc780ef9"
 
   url "https://github.com/JustinFay01/Tidebar/releases/download/v#{version}/Tidebar-#{version}.zip"
   name "Tidebar"
